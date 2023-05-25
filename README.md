@@ -14,3 +14,11 @@ How to apply theme:
 -insert back the sd card to the frogenator 9000!
 
 Enjoy!
+
+
+
+Tools and links Used:
+
+Photoshop
+Convertion Tool: https://vonmillhausen.github.io/sf2000/tools/genericImageTool.htm
+Assets list and Reference: https://vonmillhausen.github.io/sf2000/
