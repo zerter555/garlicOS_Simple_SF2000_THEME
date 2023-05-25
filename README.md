@@ -1,5 +1,5 @@
 # garlicOS_Simple_SF2000_THEME
-Theme for Dataforg SF2000, inspired by garlicOS them
+Theme for Dataforg SF2000, inspired by garlicOS theme
 
 How to apply theme:
 
