@@ -20,5 +20,7 @@ Enjoy!
 Tools and links Used:
 
 Photoshop
+
 Convertion Tool: https://vonmillhausen.github.io/sf2000/tools/genericImageTool.htm
+
 Assets list and Reference: https://vonmillhausen.github.io/sf2000/
