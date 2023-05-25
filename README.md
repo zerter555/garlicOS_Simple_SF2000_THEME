@@ -7,7 +7,7 @@ How to apply theme:
 
 -backup resource folder first (just in case anything happens or you want it back to stock design)
 
--copy the downloaded files
+-copy the downloaded files (if the readme file is included in the download dont forget to not include it in the transfer to froggy)
 
 -paste&replace inside resource folder of SD Card
 
