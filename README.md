@@ -15,7 +15,8 @@ How to apply theme:
 
 Enjoy!
 
-
+If you enjoy the theme and like to support me and other projects im working on here is the dono link:
+https://www.paypal.com/paypalme/zerter555
 
 Tools and links Used:
 
